@@ -1,5 +1,4 @@
 .coverage
-.dockerignore
 .env
 /.help
 .DS_Store
